@@ -81,7 +81,7 @@ See [docs/hailo-lora-guide.md](docs/hailo-lora-guide.md) for details.
 ## Trial Details
 - Trial 1: Train model with full dataset in 1 epoch.
 - Trial 2: Train model with selected dataset in 1 epoch.
-- Trial 3: Train model with selected dataset in 10 epochs.
+- Trial 3: Train model with selected dataset in 10 epochs (metric artifact missing).
 
 ## Evaluation Results
 
